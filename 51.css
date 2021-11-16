@@ -1,0 +1,30 @@
+.box1 {
+    float: right;
+    width: 20%;
+    background-color: magenta;
+    height: 500px;
+}
+
+.box2 {
+    float: right;
+    width: 20%;
+    background-color: pink;
+    height: 500px;
+    margin-right: 10px;
+}
+
+.box3 {
+    float: right;
+    margin-right: 10px;
+    width: 20%;
+    background-color:red;
+    height: 500px;
+}
+
+.box4 {
+    width: 20%;
+    float: right;
+    background-color: blue;
+    height: 500px;
+    margin-right: 10px;
+}
